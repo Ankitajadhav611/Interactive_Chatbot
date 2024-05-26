@@ -1,4 +1,4 @@
-dataset
+datasets
 gpt4all 
 chromadb
 sentence_transformers
