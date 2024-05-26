@@ -1,0 +1,4 @@
+dataset
+gpt4all 
+chromadb
+sentence_transformers
