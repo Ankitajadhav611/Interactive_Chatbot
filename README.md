@@ -1,4 +1,4 @@
-# Interactive_Chatbot_meal_planner
+# Interactive ChatBot
 Interactive chatbot for, to answer the most tacky quection, "What's cooking?". Developed as a personal project to understand about knowledge embedded LLM model.
 
 Problem statement - to develop an interactive chatbot, 
