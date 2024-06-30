@@ -1,5 +1,5 @@
 # Interactive ChatBot
-Interactive chatbot for, to answer the most tacky quection, "What's cooking?". Developed as a personal project to understand about knowledge embedded LLM model.
+Interactive chatbot for, to answer the most tacky question, "What's cooking?". Developed as a personal project to understand about knowledge embedded LLM model.
 
 Problem statement - to develop an interactive chatbot, 
 database - The Food Processor https://huggingface.co/datasets/Thefoodprocessor/recipe_new_with_features_full
